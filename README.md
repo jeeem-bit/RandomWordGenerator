@@ -1,6 +1,6 @@
 # Random Word Generator
 
-A new Flutter project.
+Flutter App tutorial from Flutter dev.
 
 ## Getting Started
 
